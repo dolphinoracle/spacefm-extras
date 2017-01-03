@@ -1,0 +1,13 @@
+Source: spacefm-extras
+Section: system
+Priority: optional
+Maintainer: dolphin oracle <dolphinoracle@gmail.com>
+Build-Depends: debhelper (>= 9.20120115)
+Standards-Version: 3.9.4
+Homepage: http://github.com/mx-linux
+
+Package: spacefm-extras
+Architecture: all
+Provides: spacefm-extras
+Depends: ${misc:Depends}, ${shlibs:Depends}, 
+Description: extras for spacefm (mountshare and trash)

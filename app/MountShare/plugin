@@ -1,0 +1,12 @@
+# SpaceFM Plugin File
+
+# THIS FILE IS NOT DESIGNED TO BE EDITED
+
+[Plugin]
+config_version-s=23
+cstm_23558f1e-x=1
+cstm_23558f1e-y=
+cstm_23558f1e-label=MountShare
+cstm_23558f1e-task=1
+cstm_23558f1e-keep=1
+
