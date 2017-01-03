@@ -15,14 +15,14 @@ Changes:
  .
    * initial package
 Checksums-Sha1:
- 4b36d450ad1ff5fbb65a3b66e65464e6c4c23b4f 604 spacefm-extras_17.1.1.dsc
- 40ee67086b77495dbd598971acc8ad2f353cb239 39044 spacefm-extras_17.1.1.tar.xz
- 067bf4a287c3cb03f5d803ef2b1df57e1077ea19 39952 spacefm-extras_17.1.1_all.deb
+ d3c198af95390af12f8e31e3383ccafd41eda521 604 spacefm-extras_17.1.1.dsc
+ 6c7fc4bf154215200c9ef8d16d56e50d514aef8a 38772 spacefm-extras_17.1.1.tar.xz
+ 600211a12dd5c3e6b10db7fdbb6a5632ea4a8c56 39980 spacefm-extras_17.1.1_all.deb
 Checksums-Sha256:
- 5ea410c5257bde0f5e93ccf833a41186d63056d5e29171895f3edd9d9819b76f 604 spacefm-extras_17.1.1.dsc
- be236f3375f23bd5d1f9b6234d96a560744adc99b2f6bdc798ad0eadaf999f28 39044 spacefm-extras_17.1.1.tar.xz
- d6a34a3a9b0af05beeea84f2168bd29556a44ef140a58f0fb321479792dec021 39952 spacefm-extras_17.1.1_all.deb
+ 21d2d8b1c2608ad0a19db01ae5cf667499845b94ee0967ff7ab77bedf85cd451 604 spacefm-extras_17.1.1.dsc
+ ee02a0f8c94dbe2e6ecfd6d6d5f0a3eeb33c26100906acf6b46759fe8dcf83a1 38772 spacefm-extras_17.1.1.tar.xz
+ 2d8deb04fed7aa10c524e7659475ded5acb14be2773a4a913dc2907f4694d233 39980 spacefm-extras_17.1.1_all.deb
 Files:
- 97c1466912cb6f070cacc7e5bb903029 604 system optional spacefm-extras_17.1.1.dsc
- 040d3e247cd9813eae3e4606c6e7945b 39044 system optional spacefm-extras_17.1.1.tar.xz
- 4f852af1c1e81214803a1f1bd5a114cd 39952 system optional spacefm-extras_17.1.1_all.deb
+ 0ae0d04177c1d6b5403ab722c6f8f3dd 604 system optional spacefm-extras_17.1.1.dsc
+ 143428db3b9db8e1c75ffc644c54cc8f 38772 system optional spacefm-extras_17.1.1.tar.xz
+ 5d2b82a78e6fe3ec13f19c6a87a5a0b3 39980 system optional spacefm-extras_17.1.1_all.deb

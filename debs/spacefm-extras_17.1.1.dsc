@@ -10,8 +10,8 @@ Build-Depends: debhelper (>= 9.20120115)
 Package-List:
  spacefm-extras deb system optional arch=all
 Checksums-Sha1:
- 40ee67086b77495dbd598971acc8ad2f353cb239 39044 spacefm-extras_17.1.1.tar.xz
+ 6c7fc4bf154215200c9ef8d16d56e50d514aef8a 38772 spacefm-extras_17.1.1.tar.xz
 Checksums-Sha256:
- be236f3375f23bd5d1f9b6234d96a560744adc99b2f6bdc798ad0eadaf999f28 39044 spacefm-extras_17.1.1.tar.xz
+ ee02a0f8c94dbe2e6ecfd6d6d5f0a3eeb33c26100906acf6b46759fe8dcf83a1 38772 spacefm-extras_17.1.1.tar.xz
 Files:
- 040d3e247cd9813eae3e4606c6e7945b 39044 spacefm-extras_17.1.1.tar.xz
+ 143428db3b9db8e1c75ffc644c54cc8f 38772 spacefm-extras_17.1.1.tar.xz
