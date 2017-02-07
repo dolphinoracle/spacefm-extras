@@ -1,3 +1,9 @@
+spacefm-extras (17.2.1) mx; urgency=low
+
+  * revised default session files
+
+ -- dolphinoracle <dolphinoracle@gmail.com>  Tue, 07 Feb 2017 08:42:32 -0400
+
 spacefm-extras (17.1.1) mx; urgency=low
 
   * initial package
