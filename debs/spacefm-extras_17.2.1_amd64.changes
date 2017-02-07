@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Tue, 07 Feb 2017 08:42:32 -0400
+Source: spacefm-extras
+Binary: spacefm-extras
+Architecture: source all
+Version: 17.2.1
+Distribution: mx
+Urgency: low
+Maintainer: dolphin oracle <dolphinoracle@gmail.com>
+Changed-By: dolphinoracle <dolphinoracle@gmail.com>
+Description:
+ spacefm-extras - extras for spacefm (mountshare and trash)
+Changes:
+ spacefm-extras (17.2.1) mx; urgency=low
+ .
+   * revised default session files
+Checksums-Sha1:
+ 0a6726d39f01a837731a29b5bae681be069e860e 604 spacefm-extras_17.2.1.dsc
+ 4e8951e2862dfef18437e5ed2e77c13a38607972 38848 spacefm-extras_17.2.1.tar.xz
+ 5ebc0083fae74400a0476847c629b193009889a5 40000 spacefm-extras_17.2.1_all.deb
+Checksums-Sha256:
+ 2da1f248baf3b5486de019aef904e5dc03a5d486182faa1e04ec406f0f99ecc9 604 spacefm-extras_17.2.1.dsc
+ 119140f1993074d44e551f54e9f349281dc45a63178a1c1abc041fd9a2ac52ef 38848 spacefm-extras_17.2.1.tar.xz
+ b3e929db0e73cf0d3c0c610239928469cefcdf2faf8c85a35dd896ecaa843701 40000 spacefm-extras_17.2.1_all.deb
+Files:
+ 88c2dc204167b603a7620390c809ca86 604 system optional spacefm-extras_17.2.1.dsc
+ 4aa8b45f280445f54a910d5250fdc38b 38848 system optional spacefm-extras_17.2.1.tar.xz
+ 3ba0fa1cb4d24735c7df510f5389a4ab 40000 system optional spacefm-extras_17.2.1_all.deb
