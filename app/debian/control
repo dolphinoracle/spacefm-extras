@@ -9,5 +9,5 @@ Homepage: http://github.com/mx-linux
 Package: spacefm-extras
 Architecture: all
 Provides: spacefm-extras
-Depends: ${misc:Depends}, ${shlibs:Depends}, smbclient, spacefm
+Depends: ${misc:Depends}, ${shlibs:Depends}, smbclient
 Description: extras for spacefm (mountshare and trash)
